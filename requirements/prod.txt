@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+fastapi==0.95.1
+requests==2.28.2
+uvicorn==0.21.1
+validators==0.20.0
